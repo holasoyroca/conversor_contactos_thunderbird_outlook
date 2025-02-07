@@ -11,7 +11,6 @@ app = Flask(__name__)
 mapping = {
 	"Nombre": "First Name",
 	"Apellidos": "Last Name",
-	"Nombre mostrado": "Title",
 	"Apodo": "Nickname",
 	"Dirección de correo electrónico principal": "E-mail Address",
 	"Dirección de correo electrónico secundaria": "E-mail 2 Address",
